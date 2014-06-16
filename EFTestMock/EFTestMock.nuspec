@@ -10,7 +10,6 @@
     <!--<iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>-->
     <description>Test mocks for Entity Framework core types.</description>
     <releaseNotes>Initial publish</releaseNotes>
-    <copyright>Copyright BZ 2014</copyright>
     <tags>Entity Framework, Mock, Test</tags>
     <dependencies>
       <dependency id="EntityFramework" version="6.1.0" />
