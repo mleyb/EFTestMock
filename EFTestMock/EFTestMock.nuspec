@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>EFTestMock</id>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <title>EFTestMock</title>
     <authors>Mark Leybourne</authors>
     <owners>Mark Leybourne</owners>
@@ -12,6 +12,9 @@
     <releaseNotes>Initial publish</releaseNotes>
     <copyright>Copyright BZ 2014</copyright>
     <tags>Entity Framework, Mock, Test</tags>
+    <dependencies>
+      <dependency id="EntityFramework" version="6.1.0" />
+    </dependencies>
   </metadata>
   <files>
     <file src="..\bin\EFTestMock.dll" target="lib" />
